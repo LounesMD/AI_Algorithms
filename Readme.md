@@ -1,4 +1,4 @@
-# MyClassifiers
+# AI_Algorithms
 
 This repository gathers the different AI algorithms that I've implemented.
 
